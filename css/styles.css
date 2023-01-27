@@ -1,0 +1,37 @@
+body {
+    background-color: #301E67;
+}
+hr {
+
+    border-style: dotted none none none;
+    border-color: #a897db;
+    border-width: 10px;
+
+    width: 10%;
+    height: 0px;
+}
+
+h1{
+    color: #5B8FB9;
+}
+h2{
+    color:#5B8FB9;
+}
+label{
+    color:#B6EADA;
+}
+h3{
+    color:#5B8FB9;
+}
+ul{
+    color: #B6EADA;
+}
+/*table{
+    border-style: inset;
+    border-color: #5B8FB9;
+    border-width: 10px;
+
+    width: 20%;
+    height: 2px;
+    color:#a897db;
+}*/
